@@ -1,0 +1,12 @@
+Ann Arbor,Dearborn,35.5
+Ann Arbor,Flint,54.5
+Ann Arbor,DTW,24.4
+Dearborn,Ann Arbor,34.4
+Dearborn,Flint,68.1
+Dearborn,DTW,11.8
+Flint,Ann Arbor,55.2
+Flint,Dearborn,69.1
+Flint,DTW,77.7
+DTW,Ann Arbor,24.7
+DTW,Dearborn,12.3
+DTW,Flint,77.6
