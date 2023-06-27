@@ -1,0 +1,145 @@
+
+Atera,Atera,0
+Atera,Jungsuk,0.53
+Atera,Saga,1.01
+Atera,Ko,1.6
+Atera,Al Coro,2.2
+Atera,Aska,3.45
+Atera,Atomix,2.74
+Atera,Gabriel Kreuther,3.04
+Atera,The Modern,6.33
+Atera,Aquavit,5.65
+Atera,Jean-Georges,5.19
+Atera,Daniel,6.91
+Jungsuk,Atera,0.39
+Jungsuk,Jungsuk,0
+Jungsuk,Saga,1.4
+Jungsuk,Ko,1.46
+Jungsuk,Al Coro,2.02
+Jungsuk,Aska,3.65
+Jungsuk,Atomix,3.74
+Jungsuk,Gabriel Kreuther,3.11
+Jungsuk,The Modern,5.21
+Jungsuk,Aquavit,5.58
+Jungsuk,Jean-Georges,5.01
+Jungsuk,Daniel,5.84
+Saga,Atera,0.97
+Saga,Jungsuk,1.3
+Saga,Saga,0
+Saga,Ko,1.94
+Saga,Al Coro,2.94
+Saga,Aska,4.11
+Saga,Atomix,5.06
+Saga,Gabriel Kreuther,5.51
+Saga,The Modern,6.05
+Saga,Aquavit,5.92
+Saga,Jean-Georges,5.94
+Saga,Daniel,6.63
+Ko,Atera,1.28
+Ko,Jungsuk,1.89
+Ko,Saga,1.84
+Ko,Ko,0
+Ko,Al Coro,2.33
+Ko,Aska,2.86
+Ko,Atomix,2.05
+Ko,Gabriel Kreuther,2.89
+Ko,The Modern,3.45
+Ko,Aquavit,3.31
+Ko,Jean-Georges,5.32
+Ko,Daniel,3.94
+Al Coro,Atera,2.31
+Al Coro,Jungsuk,2.39
+Al Coro,Saga,3.97
+Al Coro,Ko,1.95
+Al Coro,Al Coro,0
+Al Coro,Aska,5.13
+Al Coro,Atomix,1.79
+Al Coro,Gabriel Kreuther,2.08
+Al Coro,The Modern,3.34
+Al Coro,Aquavit,3.72
+Al Coro,Jean-Georges,3.14
+Al Coro,Daniel,3.97
+Aska,Atera,3.25
+Aska,Jungsuk,3.66
+Aska,Saga,3.66
+Aska,Ko,2.79
+Aska,Al Coro,4.76
+Aska,Aska,0
+Aska,Atomix,4.35
+Aska,Gabriel Kreuther,5.67
+Aska,The Modern,6.21
+Aska,Aquavit,6.07
+Aska,Jean-Georges,7.39
+Aska,Daniel,6.79
+Atomix,Atera,4.69
+Atomix,Jungsuk,6.21
+Atomix,Saga,4.48
+Atomix,Ko,1.6
+Atomix,Al Coro,2.17
+Atomix,Aska,5.24
+Atomix,Atomix,0
+Atomix,Gabriel Kreuther,1.14
+Atomix,The Modern,1.73
+Atomix,Aquavit,1.59
+Atomix,Jean-Georges,2.64
+Atomix,Daniel,2.22
+Gabriel Kreuther,Atera,4.6
+Gabriel Kreuther,Jungsuk,4.67
+Gabriel Kreuther,Saga,5.33
+Gabriel Kreuther,Ko,2.5
+Gabriel Kreuther,Al Coro,2.56
+Gabriel Kreuther,Aska,6.09
+Gabriel Kreuther,Atomix,1.1
+Gabriel Kreuther,Gabriel Kreuther,0
+Gabriel Kreuther,The Modern,1.03
+Gabriel Kreuther,Aquavit,1.2
+Gabriel Kreuther,Jean-Georges,1.46
+Gabriel Kreuther,Daniel,1.62
+The Modern,Atera,5.1
+The Modern,Jungsuk,5.18
+The Modern,Saga,6.21
+The Modern,Ko,3.42
+The Modern,Al Coro,3.06
+The Modern,Aska,6.97
+The Modern,Atomix,1.82
+The Modern,Gabriel Kreuther,1.11
+The Modern,The Modern,0
+The Modern,Aquavit,0.65
+The Modern,Jean-Georges,0.91
+The Modern,Daniel,1.07
+Aquavit,Atera,5.45
+Aquavit,Jungsuk,5.52
+Aquavit,Saga,5.96
+Aquavit,Ko,3.17
+Aquavit,Al Coro,3.41
+Aquavit,Aska,6.72
+Aquavit,Atomix,1.57
+Aquavit,Gabriel Kreuther,1.18
+Aquavit,The Modern,0.34
+Aquavit,Aquavit,0
+Aquavit,Jean-Georges,1.05
+Aquavit,Daniel,0.63
+Jean-Georges,Atera,5.34
+Jean-Georges,Jungsuk,5.42
+Jean-Georges,Saga,7.29
+Jean-Georges,Ko,6.1
+Jean-Georges,Al Coro,3.3
+Jean-Georges,Aska,8.06
+Jean-Georges,Atomix,2.79
+Jean-Georges,Gabriel Kreuther,1.74
+Jean-Georges,The Modern,1.46
+Jean-Georges,Aquavit,2.94
+Jean-Georges,Jean-Georges,0
+Jean-Georges,Daniel,0.94
+Daniel,Atera,6.57
+Daniel,Jungsuk,8.09
+Daniel,Saga,6.35
+Daniel,Ko,5.16
+Daniel,Al Coro,4.16
+Daniel,Aska,7.11
+Daniel,Atomix,1.85
+Daniel,Gabriel Kreuther,1.65
+Daniel,The Modern,0.89
+Daniel,Aquavit,0.56
+Daniel,Jean-Georges,1.25
+Daniel,Daniel,0

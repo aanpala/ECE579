@@ -1,0 +1,25 @@
+Bar Masa,Bar Masa,0
+Bar Masa,Per Se,0.5
+Bar Masa,Le Bernardin Prive,1.2
+Bar Masa,The Chef's Table at Brooklyn Fare,1.4
+Bar Masa,Eleven Madison Park,2.8
+Per Se,Per Se,0
+Per Se,Bar Masa,0.2
+Per Se,Le Bernardin Prive,0.9
+Per Se,The Chef's Table at Brooklyn Fare,1.5 
+Per Se,Eleven Madison Park,2.5
+Le Bernardin Prive,Le Bernardin Prive,0
+Le Bernardin Prive,Bar Masa,0.7
+Le Bernardin Prive,Per Se,0.7
+Le Bernardin Prive,The Chef's Table at Brooklyn Fare,1.2 
+Le Bernardin Prive,Eleven Madison Park,1.2
+The Chef's Table at Brooklyn Fare,The Chef's Table at Brooklyn Fare,0
+The Chef's Table at Brooklyn Fare,Bar Masa,1.6
+The Chef's Table at Brooklyn Fare,Per Se,1.6
+The Chef's Table at Brooklyn Fare,Le Bernardin Prive,1.6
+The Chef's Table at Brooklyn Fare,Eleven Madison Park,1.9
+Eleven Madison Park,Eleven Madison Park,0
+Eleven Madison Park,Bar Masa,2.5
+Eleven Madison Park,Per Se,2.5
+Eleven Madison Park,Le Bernardin Prive,1.6
+Eleven Madison Park,The Chef's Table at Brooklyn Fare,1.5
